@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="M:\bitmap.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="FB Diagramm.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4919"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4916"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path4937"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4916-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-1-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4916-9-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4919-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-1-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4916-9-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4919-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-8-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4919-2-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-1-7-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4916-9-9-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="426.33804"
+     inkscape:cy="492.29038"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-page="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0064ff;fill-opacity:0.54901961;stroke:#000000;stroke-width:3.18000007;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4111"
+       width="197.09938"
+       height="97.094276"
+       x="263.53775"
+       y="140.64946"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862" />
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="295.33072"
+       y="207.97107"
+       id="text4113"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862"><tspan
+         sodipodi:role="line"
+         id="tspan4115"
+         x="295.33072"
+         y="207.97107"
+         style="font-style:oblique;font-family:Times New Roman;-inkscape-font-specification:Times New Roman">G(s)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:41.77787018px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="746.43848"
+       y="198.52983"
+       id="text4908"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862"><tspan
+         sodipodi:role="line"
+         id="tspan4910"
+         x="746.43848"
+         y="198.52983">u(k)=u  (k)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:41.77787018px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="8.7373848"
+       y="202.39865"
+       id="text4908-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862"><tspan
+         sodipodi:role="line"
+         id="tspan4910-5"
+         x="8.7373848"
+         y="202.39865">y(t)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 262.47564,189.17463 -190.423035,1.0458"
+       id="path6133"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862" />
+    <g
+       id="g6629"
+       transform="translate(-5.7143495,17.142857)"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862">
+      <rect
+         y="250.95273"
+         x="118.13535"
+         height="45.743107"
+         width="88.741005"
+         id="rect4111-8-3"
+         style="fill:#a4a4a4;fill-opacity:1;stroke:#000000;stroke-width:1.46457863;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         transform="scale(0.97758276,1.0229313)"
+         sodipodi:linespacing="125%"
+         id="text4113-3-1"
+         y="277.72922"
+         x="140.60153"
+         style="font-size:33.16027069px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.46055928;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-style:oblique;stroke:#000000;stroke-width:0.46055928;stroke-opacity:1;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+           y="277.72922"
+           x="140.60153"
+           id="tspan4115-1-0"
+           sodipodi:role="line">A/D</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.98643839;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart-1)"
+       d="m 157.02742,266.67376 0.83292,-76.63975"
+       id="path6661"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 156.50025,313.83869 155,431.6479"
+       id="path7447"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       inkscape:connection-start="#g6629"
+       inkscape:connection-start-point="d4"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862" />
+    <g
+       id="g9261"
+       transform="translate(-20,0)"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862">
+      <rect
+         y="345.20493"
+         x="231.34378"
+         height="45.743107"
+         width="88.741005"
+         id="rect4111-8-3-1"
+         style="fill:#0064ff;fill-opacity:0.54901961;stroke:#000000;stroke-width:1.46457863;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         transform="scale(0.97758276,1.0229313)"
+         sodipodi:linespacing="125%"
+         id="text4113-3-1-0"
+         y="368.47198"
+         x="251.29132"
+         style="font-size:33.16027069px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.46055928;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-style:oblique;stroke:#000000;stroke-width:0.46055928;stroke-opacity:1;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+           y="368.47198"
+           x="251.29132"
+           id="tspan4115-1-0-4"
+           sodipodi:role="line">H (z)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text8287"
+         y="382.00507"
+         x="266.78571"
+         style="font-size:72px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         xml:space="preserve"><tspan
+           style="font-size:24px"
+           y="382.00507"
+           x="266.78571"
+           id="tspan8289"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.86073709px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-8)"
+       d="m 211.41341,367.81715 -54.54939,-0.45644"
+       id="path8291"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.97139597px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-1-7);marker-end:none"
+       d="m 302.57049,368.4458 38.87238,0.34577"
+       id="path8677"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="158.32233"
+       y="359.66696"
+       id="text9257"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862"><tspan
+         sodipodi:role="line"
+         id="tspan9259"
+         x="158.32233"
+         y="359.66696">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="346.98843"
+       y="374.24677"
+       id="text9268"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862"><tspan
+         sodipodi:role="line"
+         id="tspan9270"
+         x="346.98843"
+         y="374.24677"
+         style="font-size:28px">e (k)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="356.18082"
+       y="380.61075"
+       id="text9272"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862"><tspan
+         sodipodi:role="line"
+         id="tspan9274"
+         x="356.18082"
+         y="380.61075">o</tspan></text>
+    <g
+       id="g12597"
+       transform="translate(29,0)"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862">
+      <rect
+         y="164.85828"
+         x="531.40808"
+         height="45.743107"
+         width="88.741005"
+         id="rect4111-8-3-8"
+         style="fill:#a4a4a4;fill-opacity:1;stroke:#000000;stroke-width:1.46457863;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         transform="scale(0.97758276,1.0229313)"
+         sodipodi:linespacing="125%"
+         id="text4113-3-1-9"
+         y="193.56477"
+         x="563.35114"
+         style="font-size:33.16027069px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.46055928;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-style:oblique;stroke:#000000;stroke-width:0.46055928;stroke-opacity:1;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+           y="193.56477"
+           x="563.35114"
+           id="tspan4115-1-0-1"
+           sodipodi:role="line">D/A</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="489.68201"
+       y="201.66724"
+       id="text9257-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862"><tspan
+         sodipodi:role="line"
+         id="tspan9259-8"
+         x="489.68201"
+         y="201.66724">+</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-1-7-1)"
+       d="M 649.14909,187.59851 729,187.36218"
+       id="path11163"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862" />
+    <rect
+       style="fill:#0064ff;fill-opacity:0.54901961;stroke:#000000;stroke-width:1.46457863;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4111-8-3-1-0"
+       width="88.741005"
+       height="45.743107"
+       x="464.70343"
+       y="267.2052"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862" />
+    <text
+       xml:space="preserve"
+       style="font-size:33.16027069px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.46055928;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="490.00226"
+       y="292.22079"
+       id="text4113-3-1-0-7"
+       sodipodi:linespacing="125%"
+       transform="scale(0.97758276,1.0229313)"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862"><tspan
+         sodipodi:role="line"
+         id="tspan4115-1-0-4-6"
+         x="490.00226"
+         y="292.22079"
+         style="font-style:oblique;stroke:#000000;stroke-width:0.46055928;stroke-opacity:1;font-family:Times New Roman;-inkscape-font-specification:Times New Roman">H (z)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="501.91315"
+       y="304.00534"
+       id="text8287-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862"><tspan
+         sodipodi:role="line"
+         id="tspan8289-0"
+         x="501.91315"
+         y="304.00534"
+         style="font-size:24px">i</tspan></text>
+    <g
+       id="g11572"
+       transform="translate(-256.5,26)"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862">
+      <text
+         sodipodi:linespacing="125%"
+         id="text9268-9"
+         y="374.24704"
+         x="743.34808"
+         style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         xml:space="preserve"><tspan
+           style="font-size:28px"
+           y="374.24704"
+           x="743.34808"
+           id="tspan9270-9"
+           sodipodi:role="line">e (k)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text9272-9"
+         y="380.61102"
+         x="754.6618"
+         style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         xml:space="preserve"><tspan
+           y="380.61102"
+           x="754.6618"
+           id="tspan9274-4"
+           sodipodi:role="line">i</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.97682118px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend-8-0)"
+       d="m 511.84139,267.21679 -0.84181,-77.8662"
+       id="path11578"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.98152608px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-1-7-1)"
+       d="m 512.12027,315.43907 0.12996,61.43235"
+       id="path11980"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.98818099px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-0)"
+       d="m 560.41399,187.99723 -97.28277,0.60388"
+       id="path12615"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="112"
+       y="460.36218"
+       id="text12817"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12819"
+         x="112"
+         y="460.36218" /></text>
+    <g
+       id="g13109">
+      <text
+         inkscape:export-ydpi="300.08862"
+         inkscape:export-xdpi="300.08862"
+         inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+         sodipodi:linespacing="125%"
+         id="text9268-0"
+         y="454.78369"
+         x="132.26074"
+         style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         xml:space="preserve"><tspan
+           style="font-size:28px"
+           y="454.78369"
+           x="132.26074"
+           id="tspan9270-7"
+           sodipodi:role="line">y  (k)</tspan></text>
+      <text
+         inkscape:export-ydpi="300.08862"
+         inkscape:export-xdpi="300.08862"
+         inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+         sodipodi:linespacing="125%"
+         id="text9272-91"
+         y="461.14767"
+         x="142.95313"
+         style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         xml:space="preserve"><tspan
+           y="461.14767"
+           x="142.95313"
+           id="tspan9274-5"
+           sodipodi:role="line">m</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:26.32376099px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="858.95831"
+       y="205.15729"
+       id="text12873"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0033708,0.99664053)"
+       inkscape:export-filename="\\nas-green-1.d.ethz.ch\share-green-sf$\mheusser\Desktop\Semester Thesis\Presentation\FB_diagram.png"
+       inkscape:export-xdpi="300.08862"
+       inkscape:export-ydpi="300.08862"><tspan
+         sodipodi:role="line"
+         id="tspan12875"
+         x="858.95831"
+         y="205.15729">m</tspan></text>
+  </g>
+</svg>

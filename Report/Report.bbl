@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{castae2010active}
+R~Castae-Selga.
+\newblock Active noise hybrid time-varying control for motorcycle helmets.
+\newblock {\em Control Systems Technology, IEEE Transactions on},
+  18(3):602--612, 2010.
+
+\bibitem{esnaola2005mirela}
+Urko Esnaola and Tim Smithers.
+\newblock Mirela: a musical robot.
+\newblock In {\em Computational Intelligence in Robotics and Automation, 2005.
+  CIRA 2005. Proceedings. 2005 IEEE International Symposium on}, pages 67--72.
+  IEEE, 2005.
+
+\bibitem{violini2014}
+D~Garcia~Violini.
+\newblock Identification and robust active noise control in helmets.
+\newblock {\em International Journal of Systems Science}, 2014.
+
+\bibitem{ljung1999system}
+Lennart Ljung.
+\newblock {\em System identification}.
+\newblock Wiley Online Library, 1999.
+
+\bibitem{mckelvey1996subspace}
+Tomas McKelvey, H{\"u}seyin Ak{\c{c}}ay, and Lennart Ljung.
+\newblock Subspace-based multivariable system identification from frequency
+  response data.
+\newblock {\em Automatic Control, IEEE Transactions on}, 41(7):960--979, 1996.
+
+\bibitem{van1994n4sid}
+Peter Van~Overschee and Bart De~Moor.
+\newblock N4sid: Subspace algorithms for the identification of combined
+  deterministic-stochastic systems.
+\newblock {\em Automatica}, 30(1):75--93, 1994.
+
+\end{thebibliography}

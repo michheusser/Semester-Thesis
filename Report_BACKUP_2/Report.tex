@@ -1,0 +1,138 @@
+%=================================================================
+% RELab LaTeX template - this template is based on the IMRT and ASL LaTeX template
+%=================================================================
+
+\documentclass[10pt,twoside,a4paper]{article}
+
+
+ \usepackage{ethReLab}   	% New styles and commands
+
+% \includeonly{}                      				% Quick formatting
+% \usepackage[draft]{graphicx}        		% Quick formatting
+
+\usepackage{subcaption}
+ \usepackage{a4}                      			% Paper size
+ \usepackage[latin1]{inputenc}       			% Keybord settings
+ \usepackage{amsmath}                 			% Additional math functionality
+ \usepackage{amssymb}                 		% Additional math functionality
+ \usepackage{float}                   			% Placement of floating objects
+ \usepackage{fancyhdr}                			% Headings
+ \usepackage{rotating}
+ \usepackage{multirow}
+ \usepackage{url}
+ \usepackage{colortbl}
+ \usepackage{ifpdf}
+\usepackage[final]{pdfpages}
+\usepackage{mcode}
+\usepackage{cite}
+
+
+ \usepackage{hyperref}
+ \usepackage{color}
+ \definecolor{black}{rgb}{0,0,0}
+ \definecolor{white}{rgb}{1,1,1}
+
+ \definecolor{darkred}{rgb}{0.5,0,0}
+ \definecolor{darkgreen}{rgb}{0,0.5,0}
+ \definecolor{darkblue}{rgb}{0,0,0.5}
+
+%\usepackage{german}                  		% German language
+%\usepackage{ae}                      			% German specials
+
+\usepackage{hyperref}						% generates colored links in pdf file
+\hypersetup{
+     		bookmarks = true,
+     		colorlinks = true,       				% false: boxed links; true: colored links
+    		linkcolor = black,          				% color of internal links
+    		citecolor = black,        				% color of links to bibliography
+    		filecolor = black,      				% color of file links
+    		urlcolor = black          				% color of external links
+}
+
+
+
+%---------------------------------------------------------------------------
+
+ \setlength{\parindent}{0em}                   		% Disable parindent
+ \rhead[\thepage]{\nouppercase{\rightmark}}    % Special headings
+ \lhead[\nouppercase{\leftmark}]{\thepage}     	% Special headings
+ \cfoot{}                                      					% Special headings
+
+%---------------------------------------------------------------------------
+
+ \title{Optimization Methods for Novel System Identification Techniques}
+\subtitle{}
+
+
+\projecttype{Semester Thesis}
+% Internship Report, Bachelor-Thesis, Semester-Thesis, Master-Thesis
+
+\studentA{Michel D. Heusser}
+
+
+\supervisionA{Tony Wood }
+%\supervisionB{Supervisor B}
+%\supervisionC{Supervisor C}
+
+\professorA{Prof. Dr. Roy S. Smith}
+%\professorB{Prof. B}
+%\professorC{Prof. C}
+
+\timeperiod{September 2013 - January 2014}
+
+%===========================================================================
+\begin{document}
+
+%---------------------------------------------------------------------------
+% Title page
+
+ \maketitle
+ \pagestyle{plain}
+ \pagenumbering{roman}
+
+%---------------------------------------------------------------------------
+% Project Description Page
+%\includepdf[pages={1}]{ProjectDescription}
+ %\cleardoublepage
+
+%---------------------------------------------------------------------------
+% Preamble
+
+ \include{preamble}
+
+ \pagestyle{headings}                 	% Default headings
+ \pagestyle{fancy}                   		% Special headings
+ \pagenumbering{arabic}
+
+%---------------------------------------------------------------------------
+% Chapters
+
+\include{text}
+
+
+%---------------------------------------------------------------------------
+% Literature
+
+ %\cleardoublepage
+ \nocite{*}						% we want to include all entries from the bib file, even if they were not cited in the report
+ \bibliographystyle{plain}			% Style
+ 
+ \addcontentsline{toc}{chapter}{Bibliography}	% add bibliography to table of contents
+ 
+ \bibliography{literature/bib}		% include bibliography
+ %\cleardoublepage
+
+
+
+%---------------------------------------------------------------------------
+% Appendix
+
+ \appendix
+ \include{appendix}
+
+
+
+%---------------------------------------------------------------------------
+
+\end{document}
+%===========================================================================

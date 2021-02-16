@@ -1,0 +1,105 @@
+% IDSC LaTeX Thesis Template
+% 
+% Author(s):	Eric Müller
+% 				Institute for Dynamic Systems and Control
+% 				Swiss Federal Institute of Technology (ETH) Zurich
+% 
+% Created:		2004/04/02  (Eric Mueller)
+% 
+% Notes: Has been tested on Windows 7 + MikTeX + TeXnicCenter
+%
+% Revisions: 	2009/05/29  (Soren Ebbesen)
+% 				    2011/03/22	(Soren Ebbesen)
+%             2013/03/08	(Soren Ebbesen)
+%             2014/03/13	(Soren Ebbesen)
+% ______________________________________________________________________________
+\documentclass[10pt,twoside,a4paper,fleqn]{report}
+
+
+\usepackage[english,st]{ethidsc} % Special IDSC styles and commands      	
+								 % {german}/english: language of headings, etc.
+								 % {st}/bt/mt: {semester}/bachelor/master thesis
+\usepackage{epstopdf}	
+\usepackage{subcaption}	
+\usepackage{pdflscape}
+\usepackage[compact]{titlesec}
+\titleformat{\chapter}{\LARGE\bf}{\thechapter.}{20pt}{\LARGE\bf}
+\titleclass{\chapter}{straight}
+			
+% Page header (don't change)____________________________________________________
+\setlength{\parindent}{0em}                 % Disable parindent
+\rhead[\nouppercase{\rightmark}]{\thepage}  % Special headings
+\lhead[\thepage]{\nouppercase{\leftmark}}   % Special headings
+\cfoot{}                                    % Special headings
+
+
+% Title page (please fill in)___________________________________________________
+\title{Identification of Acoustic Models for Active Noise Control of Motorcycle Helmets}
+
+
+\studentA{Michel D. Heusser}
+\ethidA{07-742-638}
+\semesterA{5}
+\emailA{mheusser@student.ethz.ch}
+
+%\studentB{Second Student}
+%\ethidB{12-345-678}
+%\semesterB{9}
+%\emailB{second@student.ethz.ch}
+
+\supervision{Prof. Dr. Roy S. Smith}
+\date{March 2014}
+
+\identification{} 		% Project identifier
+
+\infopage
+\declaration
+
+% Begin document________________________________________________________________
+\begin{document}
+
+\maketitle 							% Create title page
+
+
+% Preamble______________________________________________________________________
+
+\pagestyle{plain}
+\pagenumbering{roman} 				% Begin roman page numbering (i,ii,...)
+
+\input{preamble}
+
+% Chapters______________________________________________________________________
+
+\pagestyle{fancy}               	% Fancy headings
+\pagenumbering{arabic}				% Begin arabic page numbering (1,2,...)
+
+%\input{introduction}
+%\cleardoublepage
+\input{text}
+\cleardoublepage
+% \input{}
+% \cleardoublepage
+% \input{}
+% \cleardoublepage
+% ...
+
+%% Appendix______________________________________________________________________
+% \addcontentsline{toc}{chapter}{Appendix}
+\appendix
+\input{appendix}
+
+\pagebreak
+% Bibliography__________________________________________________________________
+% Literature (Additional references can be added to the .bib-file manually, or by using, for example, the free application JabRef). Compile in the following order: latex -bibtex -latex -latex
+
+ %\cleardoublepage
+
+ \nocite{*}						% we want to include all entries from the bib file, even if they were not cited in the report
+ \bibliographystyle{plain}			% Style
+ 
+ \addcontentsline{toc}{chapter}{Bibliography}	% add bibliography to table of contents
+ 
+ \bibliography{literature/bib}		% include bibliography
+ %\cleardoublepage
+
+\end{document}

@@ -1,0 +1,74 @@
+%!TEX root = Report.tex
+
+
+
+%---------------------------------------------------------------------------
+ 
+
+\chapter*{Preface}
+
+I would like to thank Mr. Tony Wood, MSc. ETH Zurich, Ph.D. Student ETH Zurich, who was a very helpful advisor.
+
+ \cleardoublepage
+
+%---------------------------------------------------------------------------
+
+
+
+
+ \setcounter{tocdepth}{2}
+ \tableofcontents
+
+ \cleardoublepage
+
+
+%---------------------------------------------------------------------------
+%% Abstract
+%
+%\chapter*{Zusammenfassung}
+% \addcontentsline{toc}{chapter}{Zusammenfassung}
+%
+%Bla bla \dots
+%
+ \cleardoublepage
+
+\chapter*{Abstract}
+ \addcontentsline{toc}{chapter}{Abstract}
+System identification is the concept of developing mathematical models of dynamical systems from experimental data. In this project, we consider data from experimental measurements performed on a motorcycle helmet to derive acoustic models for active noise control. High noise levels in helmets are a major health concerns for occupational motorcyclists. Providing good noise attenuation would lower the risk of hearing loss.\\
+
+Recent work on active noise control for motorcycle helmets suggests that combining feedback and predictive feedforward control techniques can lead to promising results. Such methods involve two acoustic models characterising the relationship of the sound at different points of the  helmet. The quality of these models is crucial for the control performance. The data consists of microphone recordings from a series of experiments involving two different types acoustic excitations: white noise and swept sine signals. Two discrete system identification techniques were used to derive such models from given data. The first one is non-parametric and calculates discrete data of an empirical transfer function which is then smoothed to reduce the effects of noise. The second one uses subspace identification techniques, specifically the N4SID alroithm, which derives a parametric state-space description of the models out of the smoothed empirical functions calculated before. 
+
+\cleardoublepage
+
+
+%---------------------------------------------------------------------------
+% Symbols
+%
+%\chapter*{Nomenclature}\label{chap:symbole}
+% \addcontentsline{toc}{chapter}{Nomenclature}
+%
+%\section*{Symbols}
+%\begin{tabbing}
+% \hspace*{1.6cm} \= \hspace*{8cm} \= \kill
+% $\mathrm{EHC}$ \> Conditional equation \> [$-$] \\[0.5ex]
+% $e$ \> Willans coefficient \> [$-$] \\[0.5ex]
+% $F,G$ \> Parts of the system equation \> [\unitfrac[]{K}{s}]
+%\end{tabbing}
+%
+%\section*{Indicies}
+%\begin{tabbing}
+% \hspace*{1.6cm}  \= \kill
+% a \> Ambient \\[0.5ex]
+% air \> Air
+%\end{tabbing}
+%
+%\section*{Acronyms and Abbreviations}
+%\begin{tabbing}
+% \hspace*{1.6cm}  \= \kill
+% NEDC \> New European Driving Cycle \\[0.5ex]
+% ETH \> Eidgen\"{o}ssische Technische Hochschule
+%\end{tabbing}
+%
+% \cleardoublepage
+%
+%---------------------------------------------------------------------------

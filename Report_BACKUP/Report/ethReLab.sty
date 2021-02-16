@@ -1,0 +1,156 @@
+%==============================================================================
+% ETHASL -- (ethasl.sty) Style file
+% A LaTeX package providing new style definitions and commands.
+% This package is based on the ETHIMRT and ETHASL package 
+%==============================================================================
+\def\Presentation@Version{1.1}
+\NeedsTeXFormat{LaTeX2e}[1995/12/01]
+\ProvidesPackage{ethReLab}[2010/09/02, v. \Presentation@Version]
+\typeout{providing new style definitions and commands ---}
+
+\usepackage{colortbl}
+\definecolor{grey}{rgb}{0.5,0.5,0.5}
+
+%%%%%%%
+\newcommand{\@subtitle}{}
+\newcommand{\subtitle}[1]{\gdef\@subtitle{#1}}
+
+\newcommand{\@timeperiod}{}
+\newcommand{\timeperiod}[1]{\gdef\@timeperiod{#1}}
+
+\newcommand{\@projecttype}{}
+\newcommand{\projecttype}[1]{\gdef\@projecttype{#1}}
+
+\newcommand{\@supervisionA}{}
+\newcommand{\supervisionA}[1]{\gdef\@supervisionA{#1}}
+
+\newif\ifsupervisionB
+\newcommand{\@supervisionB}{}
+\newcommand{\supervisionB}[1]{\gdef\@supervisionB{#1}\supervisionBtrue}
+
+\newif\ifsupervisionC
+\newcommand{\@supervisionC}{}
+\newcommand{\supervisionC}[1]{\gdef\@supervisionC{#1}\supervisionCtrue}
+
+\newcommand{\@studentA}{}
+\newcommand{\studentA}[1]{\gdef\@studentA{#1}}
+
+\newif\ifstudentB
+\newcommand{\@studentB}{}
+\newcommand{\studentB}[1]{\gdef\@studentB{#1}\studentBtrue}
+
+\newif\ifstudentC
+\newcommand{\@studentC}{}
+\newcommand{\studentC}[1]{\gdef\@studentC{#1}\studentCtrue}
+
+\newcommand{\@professorA}{}
+\newcommand{\professorA}[1]{\gdef\@professorA{#1}}
+
+\newif\ifprofessorB
+\newcommand{\@professorB}{}
+\newcommand{\professorB}[1]{\gdef\@professorB{#1}\professorBtrue}
+
+\newif\ifprofessorC
+\newcommand{\@professorC}{}
+\newcommand{\professorC}[1]{\gdef\@professorC{#1}\professorCtrue}
+
+
+%%%%%%%
+% Definition of title page
+
+\renewcommand{\maketitle}{
+
+\pagestyle{empty}
+ 
+\begin{center}
+\hspace{0.02\textwidth}
+\parbox[c][\textheight][t]{0.97\textwidth}{
+\begin{center}
+
+% logos
+\vspace*{-3.2cm}
+
+\hspace*{-3.5cm}
+\begin{tabular}{lp{1.8cm}c}
+\multirow{3}{8cm}{\includegraphics[height=1.8cm]{pics/ethlogo.pdf}} & & \multirow{2}{8cm}{\vspace{-0.4cm}\begin{flushright}\includegraphics[height=1.2cm]{pics/ins.jpg}\\
+\end{flushright}}\\
+ & & \\
+ & & \\
+ & & \\
+\end{tabular}
+
+
+% line
+\hspace*{-124pt}
+\textcolor{grey}{\rule{595pt}{0.1pt}}
+
+\vspace*{1.0cm}
+
+% Semester-, Bachelor-, Master-Thesis
+{\huge \@projecttype}\\[3ex]
+
+\vspace{22cm}
+
+% line
+\hspace*{-124pt}
+\textcolor{grey}{\rule{595pt}{0.1pt}}
+
+\vspace*{0.3cm}
+\hspace*{-3.3cm}
+\begin{tabular}{p{8cm}p{6cm}p{4cm}}
+ 	\ifprofessorB
+ 		{\bf Advisors: }
+ 	\else
+ 		{\bf Advisor: }
+ 	\fi
+	& & 
+ 	\ifsupervisionB
+ 		{\bf Supervisors: }
+ 	\else
+ 		{\bf Supervisor: }
+ 	\fi \\
+	\@professorA & & \@supervisionA \\
+	\if \@professorB \else \@professorB\fi & & \if \@supervisionB \else \@supervisionB\fi \\
+	\if \@professorC \else \@professorC\fi & & \if \@supervisionC \else \@supervisionC\fi
+\end{tabular}
+
+
+
+% title	
+\vspace{-23cm}	
+{\Huge \bf \@title \par}
+
+% subtitle
+\if \@subtitle 
+\else 
+	\vspace{1cm}
+	\huge \@subtitle
+\fi
+
+\vspace{1.5cm}
+
+
+% Titlepage Image
+%\hspace*{3cm}
+
+\includegraphics[width=300px]{pics/cover}
+
+% Author and Time Period
+\vspace{1cm}
+{\Large \bf \@studentA} \\[1ex]
+ \if \@studentB \else {\Large \bf  \@studentB}\\[1ex]\fi
+	\if \@studentC \else {\Large \bf 
+ \@studentC}\\[1ex]\fi
+{\Large (\@timeperiod)}
+
+
+\end{center}
+}
+\end{center}
+
+\clearpage
+
+}
+
+\newcommand{\labelgleichung}[2]{\begin{equation} \label{#2} {#1} \end{equation}}
+\newcommand{\gleichung}[1]{\begin{equation} {#1} \end{equation}}

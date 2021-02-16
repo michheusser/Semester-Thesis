@@ -1,0 +1,1079 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.3.10)  28 MAR 2014 13:34
+entering extended mode
+**Report.tex
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\Report.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\ethReLab.st
+y"
+Package: ethReLab 2010/09/02, v. 1.1
+
+providing new style definitions and commands ---
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen103
+\extrarowheight=\dimen104
+\NC@list=\toks14
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\everycr=\toks15
+\minrowclearance=\skip45
+))
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count88
+)
+\c@subfigure=\count89
+\c@subtable=\count90
+)
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\a4.sty"
+Package: a4 1999/03/03 v1.2f A4 based page layout
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen112
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen113
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen114
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks20
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks21
+\eqnshift@=\dimen115
+\alignsep@=\dimen116
+\tagshift@=\dimen117
+\tagwidth@=\dimen118
+\totwidth@=\dimen119
+\lineht@=\dimen120
+\@envbody=\toks22
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count103
+\float@exts=\toks24
+\float@box=\box28
+\@float@everytoks=\toks25
+\@floatcapt=\box29
+)
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\fancyhdr.st
+y"
+\fancy@headwidth=\skip49
+\f@ncyO@elh=\skip50
+\f@ncyO@erh=\skip51
+\f@ncyO@olh=\skip52
+\f@ncyO@orh=\skip53
+\f@ncyO@elf=\skip54
+\f@ncyO@erf=\skip55
+\f@ncyO@olf=\skip56
+\f@ncyO@orf=\skip57
+) (C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\rotating\rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count104
+\rotFPtop=\skip58
+\rotFPbot=\skip59
+\rot@float@box=\box30
+\rot@mess@toks=\toks26
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen123
+)
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count105
+\calc@Bcount=\count106
+\calc@Adimen=\dimen124
+\calc@Bdimen=\dimen125
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count107
+\calc@Cskip=\skip62
+)
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+))
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box31
+\AM@toc@title=\toks27
+\c@AM@survey=\count108
+\AM@templatesizebox=\box32
+)
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\mcode.sty"
+-- Package: `mcode' 1.7 <2010/02/01> --
+Package: mcode 2010/02/01 1.7
+ - settings optimized for display (colour formating)
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count109
+\lst@gtempboxa=\box33
+\lst@token=\toks28
+\lst@length=\count110
+\lst@currlwidth=\dimen126
+\lst@column=\count111
+\lst@pos=\count112
+\lst@lostspace=\dimen127
+\lst@width=\dimen128
+\lst@newlines=\count113
+\lst@lineno=\count114
+\lst@maxwidth=\dimen129
+
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count115
+\lst@skipnumbers=\count116
+\lst@framebox=\box34
+)
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+))
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen130
+\Hy@linkcounter=\count117
+\Hy@pagecounter=\count118
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count119
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count120
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen131
+\Fld@menulength=\count121
+\Field@Width=\dimen132
+\Fld@charsize=\dimen133
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count122
+\c@Item=\count123
+\c@Hfootnote=\count124
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count125
+\c@bookmark@seq@number=\count126
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip63
+)
+Package color Info: Redefining color black on input line 32.
+Package color Info: Redefining color white on input line 33.
+
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 50.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 50.
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\Report.aux"
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 84.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+
+(C:\Users\mhe\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count127
+\scratchdimen=\dimen134
+\scratchbox=\box35
+\nofMPsegments=\count128
+\nofMParguments=\count129
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count130
+\MPscratchDim=\dimen135
+\MPnumerator=\count131
+\makeMPintoPDFobject=\count132
+\everyMPtoPDFconversion=\toks30
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box36
+\c@lstlisting=\count133
+Package hyperref Info: Link coloring ON on input line 84.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count134
+)
+LaTeX Info: Redefining \ref on input line 84.
+LaTeX Info: Redefining \pageref on input line 84.
+LaTeX Info: Redefining \nameref on input line 84.
+
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\Report.out"
+) ("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\Report.ou
+t")
+\@outlinefile=\write3
+LaTeX Font Info:    Try loading font information for U+msa on input line 90.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 90.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<pics/ethlogo.pdf, id=3, 192.72pt x 59.22125pt>
+File: pics/ethlogo.pdf Graphic file (type pdf)
+ <use pics/ethlogo.pdf>
+Package pdftex.def Info: pics/ethlogo.pdf used on input line 90.
+(pdftex.def)             Requested size: 166.67108pt x 51.21504pt.
+
+Overfull \vbox (18.81508pt too high) detected at line 90
+ []
+
+<pics/ins.jpg, id=4, 169.63374pt x 111.41624pt>
+File: pics/ins.jpg Graphic file (type jpg)
+ <use pics/ins.jpg>
+Package pdftex.def Info: pics/ins.jpg used on input line 90.
+(pdftex.def)             Requested size: 51.9828pt x 34.14322pt.
+
+Overfull \vbox (35.36234pt too high) detected at line 90
+ []
+
+
+Overfull \hbox (94.58678pt too wide) in paragraph at lines 90--90
+ |  [] 
+ []
+
+
+Overfull \hbox (122.7123pt too wide) in paragraph at lines 90--90
+ []|  [][][] 
+ []
+
+
+Overfull \hbox (122.7123pt too wide) in paragraph at lines 90--90
+ []|  [][][] 
+ []
+
+
+Overfull \hbox (105.9677pt too wide) in paragraph at lines 90--90
+ []|  [] 
+ []
+
+<pics/cover.jpg, id=5, 125.0271pt x 101.4189pt>
+File: pics/cover.jpg Graphic file (type jpg)
+ <use pics/cover.jpg>
+Package pdftex.def Info: pics/cover.jpg used on input line 90.
+(pdftex.def)             Requested size: 301.1261pt x 244.31715pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+{C:/Users/mhe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/mhe/
+polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/ethlogo.pdf> <C:/User
+s/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/ins.jpg> <C:/Us
+ers/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/cover.jpg>]
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\preamble.te
+x" [1
+
+
+] [2
+
+]
+
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
+\tf@toc=\write4
+
+Package hyperref Warning: old lof file detected, not used; run LaTeX again.
+
+\tf@lof=\write5
+[3] [4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+) [5]
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\text.tex"
+
+LaTeX Warning: Reference `' on page 1 undefined on input line 12.
+
+
+LaTeX Warning: Reference `' on page 1 undefined on input line 16.
+
+
+LaTeX Warning: Reference `' on page 1 undefined on input line 16.
+
+
+LaTeX Warning: Reference `' on page 1 undefined on input line 16.
+
+
+LaTeX Warning: Reference `' on page 1 undefined on input line 20.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+<pics/setupff.png, id=42, 1129.21875pt x 507.8975pt>
+File: pics/setupff.png Graphic file (type png)
+ <use pics/setupff.png>
+Package pdftex.def Info: pics/setupff.png used on input line 24.
+(pdftex.def)             Requested size: 361.34999pt x 162.53052pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 
+      [1
+
+
+]
+
+LaTeX Warning: Reference `' on page 2 undefined on input line 29.
+
+<pics/setupfb.png, id=52, 1088.065pt x 437.635pt>
+File: pics/setupfb.png Graphic file (type png)
+ <use pics/setupfb.png>
+Package pdftex.def Info: pics/setupfb.png used on input line 33.
+(pdftex.def)             Requested size: 361.34999pt x 145.34152pt.
+
+<pics/Noise.png, id=53, 849.1725pt x 301.125pt>
+File: pics/Noise.png Graphic file (type png)
+ <use pics/Noise.png>
+Package pdftex.def Info: pics/Noise.png used on input line 44.
+(pdftex.def)             Requested size: 361.34999pt x 128.13954pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/set
+upff.png> <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pi
+cs/setupfb.png>] <pics/Sweep.png, id=61, 849.1725pt x 301.125pt>
+File: pics/Sweep.png Graphic file (type png)
+ <use pics/Sweep.png>
+Package pdftex.def Info: pics/Sweep.png used on input line 51.
+(pdftex.def)             Requested size: 361.34999pt x 128.13954pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+<pics/modelfb.png, id=62, 697.4055pt x 260.172pt>
+File: pics/modelfb.png Graphic file (type png)
+ <use pics/modelfb.png>
+Package pdftex.def Info: pics/modelfb.png used on input line 62.
+(pdftex.def)             Requested size: 361.34999pt x 134.80588pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/Noi
+se.png (PNG copy)> <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BA
+CKUP_2/pics/Sweep.png (PNG copy)>]
+
+LaTeX Warning: Reference `' on page 4 undefined on input line 67.
+
+
+LaTeX Warning: Reference `' on page 4 undefined on input line 67.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+<pics/modelff.png, id=71, 673.3155pt x 269.20575pt>
+File: pics/modelff.png Graphic file (type png)
+ <use pics/modelff.png>
+Package pdftex.def Info: pics/modelff.png used on input line 71.
+(pdftex.def)             Requested size: 361.34999pt x 144.47343pt.
+
+
+LaTeX Warning: Reference `' on page 4 undefined on input line 76.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+LaTeX Warning: Reference `' on page 4 undefined on input line 78.
+
+<pics/discrete_model.png, id=72, 474.77374pt x 218.8175pt>
+File: pics/discrete_model.png Graphic file (type png)
+
+<use pics/discrete_model.png>
+Package pdftex.def Info: pics/discrete_model.png used on input line 82.
+(pdftex.def)             Requested size: 361.34999pt x 166.54675pt.
+
+Underfull \vbox (badness 1400) has occurred while \output is active []
+
+ [4 <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/mod
+elfb.png> <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pi
+cs/modelff.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+[5 <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/disc
+rete_model.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+LaTeX Warning: Reference `' on page 6 undefined on input line 116.
+
+<pics/averagedvsnonaveraged.png, id=94, 695.28725pt x 348.88965pt>
+File: pics/averagedvsnonaveraged.png Graphic file (type png)
+
+<use pics/averagedvsnonaveraged.png>
+Package pdftex.def Info: pics/averagedvsnonaveraged.png used on input line 120.
+
+(pdftex.def)             Requested size: 361.34999pt x 181.32251pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+[6 <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/aver
+agedvsnonaveraged.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+
+Overfull \hbox (7.20145pt too wide) detected at line 145
+[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 e[]\OT1/cmr/m/n/10 ) = [] [] \OML/cmm/m/it/
+10 R[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 w[]\
+OT1/cmr/m/n/10 (\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 e[] ;  []\O
+T1/cmr/m/n/10 (\OML/cmm/m/it/10 e[]\OT1/cmr/m/n/10 ) = [] [] \OML/cmm/m/it/10 R
+[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 w[]\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 e[]
+ []
+
+
+LaTeX Warning: Reference `' on page 7 undefined on input line 163.
+
+<pics/parzen.png, id=104, 422.32782pt x 316.18124pt>
+File: pics/parzen.png Graphic file (type png)
+ <use pics/parzen.png>
+Package pdftex.def Info: pics/parzen.png used on input line 168.
+(pdftex.def)             Requested size: 252.94388pt x 189.37248pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+LaTeX Warning: Reference `' on page 8 undefined on input line 177.
+
+<pics/FF_Smoothing.png, id=111, 889.07156pt x 451.6875pt>
+File: pics/FF_Smoothing.png Graphic file (type png)
+
+<use pics/FF_Smoothing.png>
+Package pdftex.def Info: pics/FF_Smoothing.png used on input line 182.
+(pdftex.def)             Requested size: 361.34999pt x 183.58029pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+[8 <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/parz
+en.png (PNG copy)> <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BA
+CKUP_2/pics/FF_Smoothing.png (PNG copy)>]
+
+LaTeX Warning: Reference `' on page 9 undefined on input line 193.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+
+ []
+
+[9]
+
+LaTeX Warning: Reference `' on page 10 undefined on input line 252.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+
+LaTeX Warning: Reference `' on page 10 undefined on input line 264.
+
+
+LaTeX Warning: Reference `' on page 10 undefined on input line 264.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
+
+
+LaTeX Warning: Reference `' on page 10 undefined on input line 271.
+
+[10]
+
+LaTeX Warning: Reference `' on page 11 undefined on input line 282.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+<pics/results_FB.png, id=130, 551.37025pt x 313.37767pt>
+File: pics/results_FB.png Graphic file (type png)
+
+<use pics/results_FB.png>
+Package pdftex.def Info: pics/results_FB.png used on input line 287.
+(pdftex.def)             Requested size: 361.34999pt x 205.3858pt.
+
+
+LaTeX Warning: Reference `' on page 11 undefined on input line 292.
+
+
+LaTeX Warning: Reference `' on page 11 undefined on input line 292.
+
+<pics/pole_FB.png, id=131, 418.66759pt x 314.00069pt>
+File: pics/pole_FB.png Graphic file (type png)
+ <use pics/pole_FB.png>
+Package pdftex.def Info: pics/pole_FB.png used on input line 296.
+(pdftex.def)             Requested size: 361.34999pt x 271.01752pt.
+
+[11 <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/res
+ults_FB.png (PNG copy)>]
+
+LaTeX Warning: Reference `' on page 12 undefined on input line 301.
+
+<pics/impulse_FB.png, id=140, 361.35pt x 294.06413pt>
+File: pics/impulse_FB.png Graphic file (type png)
+
+<use pics/impulse_FB.png>
+Package pdftex.def Info: pics/impulse_FB.png used on input line 306.
+(pdftex.def)             Requested size: 180.67499pt x 147.03171pt.
+
+<pics/impulse_FB_3sec.png, id=141, 361.35pt x 294.68715pt>
+File: pics/impulse_FB_3sec.png Graphic file (type png)
+
+<use pics/impulse_FB_3sec.png>
+Package pdftex.def Info: pics/impulse_FB_3sec.png used on input line 310.
+(pdftex.def)             Requested size: 180.67499pt x 147.3432pt.
+
+Overfull \hbox (2.77693pt too wide) in paragraph at lines 305--314
+ [][][] 
+ []
+
+
+LaTeX Warning: Reference `' on page 12 undefined on input line 329.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+
+ []
+
+[12 <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/pol
+e_FB.png (PNG copy)> <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_
+BACKUP_2/pics/impulse_FB.png (PNG copy)> <C:/Users/mhe/polybox/Semester Thesis_
+Last Version/Report_BACKUP_2/pics/impulse_FB_3sec.png (PNG copy)>]
+<pics/results_FF.png, id=151, 646.06888pt x 314.00069pt>
+File: pics/results_FF.png Graphic file (type png)
+
+<use pics/results_FF.png>
+Package pdftex.def Info: pics/results_FF.png used on input line 333.
+(pdftex.def)             Requested size: 361.34999pt x 175.62357pt.
+
+<pics/pole_FF.png, id=152, 418.66759pt x 314.00069pt>
+File: pics/pole_FF.png Graphic file (type png)
+ <use pics/pole_FF.png>
+Package pdftex.def Info: pics/pole_FF.png used on input line 342.
+(pdftex.def)             Requested size: 361.34999pt x 271.01752pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/re
+sults_FF.png (PNG copy)>]
+
+LaTeX Warning: Reference `' on page 14 undefined on input line 347.
+
+
+LaTeX Warning: Reference `' on page 14 undefined on input line 347.
+
+<pics/impulse_FF.png, id=159, 370.69525pt x 290.32603pt>
+File: pics/impulse_FF.png Graphic file (type png)
+
+<use pics/impulse_FF.png>
+Package pdftex.def Info: pics/impulse_FF.png used on input line 352.
+(pdftex.def)             Requested size: 180.67499pt x 141.50346pt.
+
+<pics/impulse_FF_3sec.png, id=160, 368.20319pt x 291.57207pt>
+File: pics/impulse_FF_3sec.png Graphic file (type png)
+
+<use pics/impulse_FF_3sec.png>
+Package pdftex.def Info: pics/impulse_FF_3sec.png used on input line 356.
+(pdftex.def)             Requested size: 180.67499pt x 143.0762pt.
+
+Overfull \hbox (2.77693pt too wide) in paragraph at lines 351--360
+ [][][] 
+ []
+
+
+LaTeX Warning: Reference `' on page 14 undefined on input line 363.
+
+
+LaTeX Warning: Reference `' on page 14 undefined on input line 369.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14 <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report_BACKUP_2/pics/po
+le_FF.png (PNG copy)> <C:/Users/mhe/polybox/Semester Thesis_Last Version/Report
+_BACKUP_2/pics/impulse_FF.png (PNG copy)> <C:/Users/mhe/polybox/Semester Thesis
+_Last Version/Report_BACKUP_2/pics/impulse_FF_3sec.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
+
+ []
+
+) [15]
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\Report.bbl"
+) [16
+
+]
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\appendix.te
+x"
+Overfull \hbox (52.68541pt too wide) detected at line 18
+\OML/cmm/m/it/10 A \OT1/cmr/m/n/10 = []
+ []
+
+) [17
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
+
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\Report.aux"
+
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\preamble.au
+x") ("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\text.au
+x")
+("C:\Users\mhe\polybox\Semester Thesis_Last Version\Report_BACKUP_2\appendix.au
+x"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 137.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
+
+
+Package rerunfilecheck Warning: File `Report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Report.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  FAB1FE812B5A6F9820298B9CF6C24431;1140.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 137.
+ ) 
+Here is how much of TeX's memory you used:
+ 10120 strings out of 493921
+ 152507 string characters out of 3144882
+ 238942 words of memory out of 3000000
+ 13167 multiletter control sequences out of 15000+200000
+ 9026 words of font info for 34 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 42i,15n,43p,924b,482s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Report.pdf (23 pages, 658791 bytes).
+PDF statistics:
+ 252 PDF objects out of 1000 (max. 8388607)
+ 72 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+

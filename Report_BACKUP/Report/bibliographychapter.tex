@@ -1,0 +1,29 @@
+%!TEX root = Report.tex
+
+
+\chapter{Managing references}\label{c:references}
+
+\section{Citations}\label{s:citations}
+Any citation made in the text should refer to an entry in the bibliography which is listed at the end of the report. To cite a reference the \verb+\cite{.}+ command is used. 
+A BibTeX file centralizes all informations of the references used in the report.\\
+
+\subsection{Cite Key}
+Each BibTeX entry contains a unique \textit{Cite Key}. One way you can form these keys is to use the \textit{first author + year + short title}. These keys are then used to actually link a reference.\\
+
+Taking an article from \textit{Howie Choset} about \textit{Coverage for Robotics} written in 2001 this key would be \textit{choset2001coverage}. To cite this reference, type \verb+cite{choset2001coverage}+. In the text this citation looks like this: \cite{choset2001coverage}. \\
+
+\subsection{Bibliography style}
+To include the bibliography, you first define it's style with \verb+\bibliographystyle{.}+. There are several styles to choose from. They define for example how the entries in the bibliography are ordered. This could be in the order they were cited (e.g.~\textit{ieeetr}) or in alphabetical order (e.g.~\textit{plain}). The latter is the default style and will be used when no style is defined. With \verb+\bibliography{.}+ the bibliography is created. \\
+
+
+\subsection{Additional hints}
+Use the command \verb+\nocite{.}+ if you want to list references in the bibliography which are not cited in the text. Placing an asterisk (*) in the \verb+\nocite{*}+ command puts all references which are located in your BibTeX file into the bibliography.
+
+To avoid a listing of successive references such as \cite{bishop2006pattern}  \cite{choset2001coverage}  \cite{gassert20062dof} the \textit{cite} package
+
+ (\verb+\usepackage{cite}+) can be used to combine those lists in the form of \cite{bishop2006pattern,choset2001coverage,gassert20062dof} (\verb+\cite{ . , . , .}+). 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,14 @@
+%!TEX root = Report.tex
+\chapter{Experimental Setup}\label{sec:experimentalsetup}
+
+\begin{figure}[H]
+\includegraphics[width=1\textwidth]{pics/Bildsetup}
+\caption{Experimental Setup}
+\label{pic:Bildsetup}
+\end{figure}
+
+The experimental setup consists of a camera, an adjustable fitting for the probe and a background image. The setup is drawn in Figure ~\ref{pic:Bildsetup}. The camera is controlled by computer and has only medium resolution because high resolution is not required. The background image is a random black and white pattern, where no repetitions of the pattern are allowed. The distance between the background image and the camera is held constant, while the distance between the probe and the camera (and therefore as well the distance between the probe and the background image) can be adjusted. \\
+
+In the calibration experiment, a wedge prism with a known deflection angle of $1^\circ\text{}$ is used as probe. First of all, a reference picture without probe is captured. Afterwards a series of 16 pictures at 16 different positions is made. This is subsequently processed in MATLAB and a calibration factor can be derived.\\
+
+In the flow cell experiment, the probe is a convection cell. This convection cell has paraffin oil as fluid and on one side, an electric heating is attached and on the other side a heat conducting material. Again, a reference picture with the flow cell on it (when the electrical heating is not activated) is taken. The heating is then activated and after some time another picture is captured. With MATLAB and the data from the previous calibration measurement, the post processing is made and the gradient field of the temperature can be visualized.
